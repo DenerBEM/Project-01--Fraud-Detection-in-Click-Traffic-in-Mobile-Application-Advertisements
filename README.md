@@ -1,4 +1,4 @@
-# Project-01--Fraud-Detection-in-Click-Traffic-in-Mobile-Application-Advertisements
+# Project-01-Fraud-Detection-in-Click-Traffic-in-Mobile-Application-Advertisements
 The goal of this project was predict is the click was fraudulent or not.
 
 # About me:
